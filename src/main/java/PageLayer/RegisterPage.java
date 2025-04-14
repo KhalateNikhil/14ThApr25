@@ -84,6 +84,7 @@ public class RegisterPage extends BaseClass
 		System.out.println("RegisterPage TC created by Rushi Tester");
 		System.out.println("RegisterPage TC created by SoniTester");
 		System.out.println("RegisterPage3 TC created by RushiTester");
+		System.out.println("RegisterPage4 TC created by SoniTester");
 	}
 	
 	
