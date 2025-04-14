@@ -81,7 +81,7 @@ public class RegisterPage extends BaseClass
 		Utilsclass.sendKeys(cpass, cpassword);
 		HandleDropDown.selectByVisibleText(hque, hintq);
 		Utilsclass.sendKeys(hans, hintans);
-		
+		System.out.println("RegisterPage TC created by Rushi Tester");
 	}
 	
 	
