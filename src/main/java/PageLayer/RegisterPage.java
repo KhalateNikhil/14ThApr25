@@ -82,6 +82,7 @@ public class RegisterPage extends BaseClass
 		HandleDropDown.selectByVisibleText(hque, hintq);
 		Utilsclass.sendKeys(hans, hintans);
 		System.out.println("RegisterPage TC created by Rushi Tester");
+		System.out.println("RegisterPage TC created by SoniTester");
 	}
 	
 	
