@@ -83,6 +83,7 @@ public class RegisterPage extends BaseClass
 		Utilsclass.sendKeys(hans, hintans);
 		System.out.println("RegisterPage TC created by Rushi Tester");
 		System.out.println("RegisterPage TC created by SoniTester");
+		System.out.println("RegisterPage3 TC created by RushiTester");
 	}
 	
 	
